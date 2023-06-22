@@ -5,6 +5,8 @@ import javafx.scene.control.Label;
 //possivelmente será excluido depois
 
 public class HelloController {
+
+    /*
     @FXML
     private Label welcomeText;
 
@@ -13,4 +15,6 @@ public class HelloController {
 
         welcomeText.setText("Welcome to JavaFX Application!");
     }
+
+     */
 }
