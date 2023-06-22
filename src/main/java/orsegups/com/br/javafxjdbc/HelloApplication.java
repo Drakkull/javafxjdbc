@@ -19,6 +19,8 @@ public class HelloApplication extends Application {
 
 
 
+
+
         stage.setTitle("Let's Begin!");
         //se der ruim, no lucar de scrollpane, bota scene de volta
         stage.setScene(scene);
